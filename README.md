@@ -27,7 +27,7 @@ As an example. if the quoted index is 400,000, then at maximum my position would
 
 ## Current positions
 
-2024-03-14 20:57:00, MES H24, Price = 521975, Position = 31
+2024-03-14 20:57:00(UTC), MES H24, Price = 521975, Position = 31
 
 ## Past trades and returns
 
