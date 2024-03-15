@@ -5,7 +5,7 @@ This project is to update live positions and trade results of automated paper tr
 
 The strategies used are constructed using XJ-Strategist, a machine learning and AI system capable of constructing and validating sustainable trading strategies, as introduced and showcased [here](https://github.com/XilinJia/XJ-Strategist).
 
-Position and returns data here are automatically updated daily just after the market close directly from my trade server.
+Position and returns data here are automatically updated daily just after the market close of CME directly from my trade server.
 
 ## Current positions
 
