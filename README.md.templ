@@ -24,7 +24,7 @@ The daily prices are of a continuous contract that is formed by rolling and stit
 
 ## Trade positioning
 
-A contract of Micro E-mini S&P 500 Index futures is valued at $5 times S&P 500 Index.  At the paper trading platform, the quoted index of S&P 500 Index comes in as 100 times the actual S&P 500 Index, thus a contract is valued at $0.05 times the quoted index.
+A contract of Micro E-mini S&P 500 Index futures is valued at $5 times S&P 500 Index.  At the trading platform of the brokerage, the quoted index of S&P 500 Index comes in as 100 times the actual S&P 500 Index, thus a contract is valued at $0.05 times the quoted index.
 
 The maintenance margin requirement is 5%.
 
