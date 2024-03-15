@@ -31,6 +31,7 @@ As an example. if the quoted index is 400,000, then at maximum my position would
 
 ## Past trades and returns
 
+Start of plot is 2023-10-19
 <img src="./trades.png" />
 
 The following file contains dates (of trade opening), daily closing prices, positions at daily market close, daily returns, and cumulated returns.
