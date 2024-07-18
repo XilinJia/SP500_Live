@@ -1,1 +1,1 @@
-2024-07-17 20:57:00(UTC), MES U24.CME_Eq, Price = 564175, Position = 35
+2024-07-18 20:57:00(UTC), MES U24.CME_Eq, Price = 560050, Position = 35
