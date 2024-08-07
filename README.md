@@ -9,6 +9,8 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
+*** Broker server problem since market open on Aug 4th ****
+
 2024-08-01 20:57:00(UTC), MES U24.CME_Eq, Price = 546275, Position = 30
 
 ## Past trades and returns
