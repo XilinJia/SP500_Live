@@ -9,14 +9,14 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-*** Broker server problem since market open on Aug 4th ****
-
-2024-08-01 20:57:00(UTC), MES U24.CME_Eq, Price = 546275, Position = 30
+2024-08-14 20:57:00(UTC), MES U24.CME_Eq, Price = 548175, Position = 30
 
 ## Past trades and returns
 
 Start of plot is 2023-10-19
 <img src="./trades.png" />
+
+*** Due to issues with broker platform, positions and results during Aug 4-13 are based on back-filled data.  ****
 
 The following file contains dates (of trade opening), daily closing prices, positions at daily market close, daily returns, and cumulated returns.
 
