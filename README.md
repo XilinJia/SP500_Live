@@ -9,7 +9,7 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-2024-09-13 20:57:00(UTC), MES U24.CME_Eq, Price = 562650, Position = 26
+2024-09-16 20:57:00(UTC), MES U24.CME_Eq, Price = 563450, Position = 23
 
 ## Past trades and returns
 
