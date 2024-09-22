@@ -16,7 +16,9 @@ Position and returns data here are automatically updated daily just after the ma
 Start of plot is 2023-10-19
 <img src="./trades.png" />
 
-*** Due to issues with broker platform, positions and results during Aug 4-13 are based on back-filled data.  ****
+*** Doing server transition from Sept 21 2024 ***
+
+*** Due to issues with broker platform, positions and results during Aug 4-13, 2024 are based on back-filled data.  ****
 
 The following file contains dates (of trade opening), daily closing prices, positions at daily market close, daily returns, and cumulated returns.
 
