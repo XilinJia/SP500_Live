@@ -9,14 +9,12 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-2024-09-19 20:57:00(UTC), MES U24.CME_Eq, Price = 571600, Position = 17
+2024-09-23 20:57:00(UTC), MES Z24.CME_Eq, Price = 577400, Position = 0
 
 ## Past trades and returns
 
 Start of plot is 2023-10-19
 <img src="./trades.png" />
-
-*** Doing server transition from Sept 21 2024 ***
 
 *** Due to issues with broker platform, positions and results during Aug 4-13, 2024 are based on back-filled data.  ****
 
