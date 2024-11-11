@@ -1,1 +1,1 @@
-2024-11-08 21:57:00(UTC), MES Z24.CME_Eq, Price = 602500, Position = 26
+2024-11-11 21:57:00(UTC), MES Z24.CME_Eq, Price = 603100, Position = 22
