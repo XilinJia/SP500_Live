@@ -1,1 +1,1 @@
-2024-12-20 21:57:00(UTC), MES H25.CME_Eq, Price = 599475, Position = 33
+2024-12-23 21:57:00(UTC), MES H25.CME_Eq, Price = 603600, Position = 27
