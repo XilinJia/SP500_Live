@@ -9,13 +9,14 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-2025-02-20 21:57:00(UTC), MES H25.CME_Eq, Price = 613325, Position = 32
+2025-02-25 21:57:00(UTC), MES H25.CME_Eq, Price = 597950, Position = 33
 
 ## Past trades and returns
 
 Start of plot is 2023-10-19
 <img src="./trades.png" />
 
+*** Due to instability issues at broker platform, positions and results during Feb 14-25, 2025 might be repaired based on back-filled data.  ****
 *** Due to issues with broker platform, positions and results during Aug 4-13, 2024 are based on back-filled data.  ****
 
 The following file contains dates (of trade opening), daily closing prices, positions at daily market close, daily returns, and cumulated returns.
