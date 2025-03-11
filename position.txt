@@ -1,1 +1,1 @@
-2025-03-10 20:57:00(UTC), MES H25.CME_Eq, Price = 562800, Position = 35
+2025-03-11 20:57:00(UTC), MES H25.CME_Eq, Price = 558025, Position = 35
