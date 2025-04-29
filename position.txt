@@ -1,1 +1,1 @@
-2025-04-28 20:57:00(UTC), MES M25.CME_Eq, Price = 554400, Position = 30
+2025-04-29 20:57:00(UTC), MES M25.CME_Eq, Price = 558125, Position = 29
