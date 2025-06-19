@@ -1,1 +1,1 @@
-2025-06-18 20:57:00(UTC), MES U25.CME_Eq, Price = 604025, Position = 28
+2025-06-19 20:57:00(UTC), MES U25.CME_Eq, Price = 597800, Position = 33
