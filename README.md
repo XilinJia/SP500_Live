@@ -9,7 +9,7 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-2025-06-19 20:57:00(UTC), MES U25.CME_Eq, Price = 597800, Position = 33
+2025-06-20 20:57:00(UTC), MES U25.CME_Eq, Price = 602525, Position = 33
 
 ## Past trades and returns
 
