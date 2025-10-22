@@ -1,1 +1,1 @@
-2025-10-21 20:57:00(UTC), MES Z25.CME_Eq, Price = 677175, Position = 24
+2025-10-22 20:57:00(UTC), MES Z25.CME_Eq, Price = 673550, Position = 24
