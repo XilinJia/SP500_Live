@@ -9,7 +9,7 @@ Position and returns data here are automatically updated daily just after the ma
 
 ## Current positions
 
-2026-01-23 21:57:00(UTC), MES H26.CME_Eq, Price = 693525, Position = 23
+2026-01-26 21:57:00(UTC), MES H26.CME_Eq, Price = 698125, Position = 28
 
 ## Past trades and returns
 
